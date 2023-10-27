@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: Auto
+## Version: 1.0
+## Author: Yurii Hentash
+
+Auto.lua
